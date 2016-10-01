@@ -2,9 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:project-one-storm-viewer/storm viewer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:project-two-guess-the-flag/guess the flag.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:project-three-social-media/storm viewer social.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:project-one-storm-viewer/storm viewer/storm viewer.xcodeproj">
+      location = "group:project-three-social-media/../project-four-easy-browser/easy browser.xcodeproj">
    </FileRef>
 </Workspace>
