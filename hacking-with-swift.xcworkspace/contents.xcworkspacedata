@@ -13,4 +13,7 @@
    <FileRef
       location = "group:project-three-social-media/../project-four-easy-browser/easy browser.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:project-four-easy-browser/../project-five-word-scramble/word scramble.xcodeproj">
+   </FileRef>
 </Workspace>
