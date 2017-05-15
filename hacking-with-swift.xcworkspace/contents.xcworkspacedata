@@ -16,4 +16,7 @@
    <FileRef
       location = "group:project-four-easy-browser/../project-five-word-scramble/word scramble.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:project-six-auto-layout/auto layout/auto layout.xcodeproj">
+   </FileRef>
 </Workspace>
